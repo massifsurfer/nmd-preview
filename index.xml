@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NMD</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/nmd-preview/</link>
     <description>Recent content on NMD</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ce</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>ce</language><atom:link href="http://localhost:1313/nmd-preview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>post1</title>
-      <link>http://localhost:1313/blog/post1/</link>
+      <link>http://localhost:1313/nmd-preview/blog/post1/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post1/</guid>
+      <guid>http://localhost:1313/nmd-preview/blog/post1/</guid>
       <description>Mauris mi sem, facilisis id viverra et, egestas a odio. Donec ornare egestas risus, vitae accumsan quam maximus nec.
 Nam sagittis tellus diam, a dapibus elit maximus a. Pellentesque ac nulla cursus, vulputate orci in, tincidunt tellus. Fusce sit amet lorem ipsum. Proin tincidunt, ligula vitae auctor consequat, neque justo accumsan mauris, eu mattis ligula tellus a lorem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus malesuada condimentum nulla, sed eleifend eros convallis at.</description>
     </item>
     
     <item>
       <title>post2</title>
-      <link>http://localhost:1313/blog/post2/</link>
+      <link>http://localhost:1313/nmd-preview/blog/post2/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post2/</guid>
+      <guid>http://localhost:1313/nmd-preview/blog/post2/</guid>
       <description>Hello world!</description>
     </item>
     
     <item>
       <title>post3</title>
-      <link>http://localhost:1313/blog/post3/</link>
+      <link>http://localhost:1313/nmd-preview/blog/post3/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post3/</guid>
+      <guid>http://localhost:1313/nmd-preview/blog/post3/</guid>
       <description>Hello world!</description>
     </item>
     
     <item>
       <title>post4</title>
-      <link>http://localhost:1313/blog/post4/</link>
+      <link>http://localhost:1313/nmd-preview/blog/post4/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/post4/</guid>
+      <guid>http://localhost:1313/nmd-preview/blog/post4/</guid>
       <description>Hello world!</description>
     </item>
     
     <item>
       <title>Chelibri - Бекалахь, нохчийн мотт</title>
-      <link>http://localhost:1313/resources/chelibri/</link>
+      <link>http://localhost:1313/nmd-preview/resources/chelibri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resources/chelibri/</guid>
+      <guid>http://localhost:1313/nmd-preview/resources/chelibri/</guid>
       <description>Корта агӏор/Ресурсы/Chelibri - Бекалахь, нохчийн мотт Hello world!</description>
     </item>
     
     <item>
       <title>LaBSE-en-ru-ce</title>
-      <link>http://localhost:1313/projects/labse-en-ru-ce/</link>
+      <link>http://localhost:1313/nmd-preview/projects/labse-en-ru-ce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/labse-en-ru-ce/</guid>
+      <guid>http://localhost:1313/nmd-preview/projects/labse-en-ru-ce/</guid>
       <description>Корта агӏор/Проекты/LaBSE-en-ru-ce Hello world!</description>
     </item>
     
     <item>
       <title>БухӀа</title>
-      <link>http://localhost:1313/projects/chechen-corpora/</link>
+      <link>http://localhost:1313/nmd-preview/projects/chechen-corpora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/chechen-corpora/</guid>
+      <guid>http://localhost:1313/nmd-preview/projects/chechen-corpora/</guid>
       <description>Корта агӏор/Проекты/БухӀа Hello world!</description>
     </item>
     

@@ -2,183 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/nmd-preview/blog/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/blog/"
+                href="http://localhost:1313/nmd-preview/ru/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/blog/"
+                href="http://localhost:1313/nmd-preview/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/nmd-preview/projects/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/projects/"
+                href="http://localhost:1313/nmd-preview/ru/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/projects/"
+                href="http://localhost:1313/nmd-preview/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>http://localhost:1313/nmd-preview/resources/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/resources/"
+                href="http://localhost:1313/nmd-preview/ru/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/resources/"
+                href="http://localhost:1313/nmd-preview/resources/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post1/</loc>
+    <loc>http://localhost:1313/nmd-preview/blog/post1/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/blog/post1/"
+                href="http://localhost:1313/nmd-preview/ru/blog/post1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/blog/post1/"
+                href="http://localhost:1313/nmd-preview/blog/post1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post2/</loc>
+    <loc>http://localhost:1313/nmd-preview/blog/post2/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/blog/post2/"
+                href="http://localhost:1313/nmd-preview/ru/blog/post2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/blog/post2/"
+                href="http://localhost:1313/nmd-preview/blog/post2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post3/</loc>
+    <loc>http://localhost:1313/nmd-preview/blog/post3/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/blog/post3/"
+                href="http://localhost:1313/nmd-preview/ru/blog/post3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/blog/post3/"
+                href="http://localhost:1313/nmd-preview/blog/post3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/post4/</loc>
+    <loc>http://localhost:1313/nmd-preview/blog/post4/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/blog/post4/"
+                href="http://localhost:1313/nmd-preview/ru/blog/post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/blog/post4/"
+                href="http://localhost:1313/nmd-preview/blog/post4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/nmd-preview/</loc>
     <lastmod>2024-06-10T13:09:46+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="http://localhost:1313/nmd-preview/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/nmd-preview/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/nmd-preview/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="http://localhost:1313/nmd-preview/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/categories/"
+                href="http://localhost:1313/nmd-preview/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/resources/chelibri/</loc>
+    <loc>http://localhost:1313/nmd-preview/resources/chelibri/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/resources/chelibri/"
+                href="http://localhost:1313/nmd-preview/ru/resources/chelibri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/resources/chelibri/"
+                href="http://localhost:1313/nmd-preview/resources/chelibri/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/labse-en-ru-ce/</loc>
+    <loc>http://localhost:1313/nmd-preview/projects/labse-en-ru-ce/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/projects/labse-en-ru-ce/"
+                href="http://localhost:1313/nmd-preview/ru/projects/labse-en-ru-ce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/projects/labse-en-ru-ce/"
+                href="http://localhost:1313/nmd-preview/projects/labse-en-ru-ce/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://localhost:1313/nmd-preview/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/series/"
+                href="http://localhost:1313/nmd-preview/ru/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/series/"
+                href="http://localhost:1313/nmd-preview/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/nmd-preview/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="http://localhost:1313/nmd-preview/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/nmd-preview/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/chechen-corpora/</loc>
+    <loc>http://localhost:1313/nmd-preview/projects/chechen-corpora/</loc>
     <lastmod>2024-06-08T20:51:16+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/projects/chechen-corpora/"
+                href="http://localhost:1313/nmd-preview/ru/projects/chechen-corpora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ce"
-                href="http://localhost:1313/projects/chechen-corpora/"
+                href="http://localhost:1313/nmd-preview/projects/chechen-corpora/"
                 />
   </url>
 </urlset>
